@@ -1,0 +1,7 @@
+8f9ebb3b8a4b6e363a8748a0118280754e05831c Merge branch 'wikipedia' of https://github.com/gax32523/RepZaliczenie
+cc330d15aeb4f1c1ba0de6ec84e0e4838587bd85 Wikipedia Day Events
+9a815a44a12513d4f1cdd48f2a84714a1e9084f3 Wikipedia Day
+188607137666b1c0ea1698a29837f1b8ae44d1e6 Fundamenty fenomenu interlingwy
+cd63d4d53468322169bd70c1a9440c32a51914c2 Opis dnia interlingwy
+c369ed44259b96de1addf9d74bebeddea7957bf0 Dzień interlingwy
+000446065a1aa1c237e9a6d8b6664503020a5833 Initial commit
